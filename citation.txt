@@ -1,0 +1,7 @@
+@article{REPO013,
+    author = "Jayaram Subramanya, Suhas and Devvrit, Fnu and Simhadri, Harsha Vardhan and Krishnawamy, Ravishankar and Kadekodi, Rohan",
+    journal = "Advances in Neural Information Processing Systems",
+    title = "{Diskann: Fast accurate billion-point nearest neighbor search on a single node}",
+    volume = "32",
+    year = "2019"
+}
